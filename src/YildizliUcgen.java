@@ -18,6 +18,7 @@ public class YildizliUcgen {
         System.out.print("Lütfen Tekrar bir Sayı Giriniz: ");
         int o = klavye.nextInt();
         int m =0;
+
         while(m<o){
             int l = 0; // Her satırda sıfırlanmalı
             int p = 1; // Her satırda sıfırlanmalı
