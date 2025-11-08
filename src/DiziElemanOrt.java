@@ -12,5 +12,7 @@ public class DiziElemanOrt {
         System.out.println(avarage);
 
 
+
+
     }
 }
